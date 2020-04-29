@@ -23,6 +23,8 @@ To train and evaluate the accuracy of the classification algorithms, a dataset o
 - **Gender**:	         The gender of applicant
 
 
+
+
 ## Table of contents: 
 1. Loading and examining the train data-set
 2. Exploring the data using categorical and Pearson's correlations
